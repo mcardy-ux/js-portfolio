@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/js-portfolio.git"
+    "url": "git+https://github.com/mcardy-ux/js-portfolio.git"
   },
   "keywords": [
     "javascript",
@@ -20,9 +20,9 @@
   "author": "oscar barajas <oscar@gndx.dev>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gndx/js-portfolio/issues"
+    "url": "https://github.com/mcardy-ux/js-portfolio.git"
   },
-  "homepage": "https://github.com/gndx/js-portfolio#readme",
+  "homepage": "https://github.com/mcardy-ux/js-portfolio.git#readme",
   "devDependencies": {
     "@babel/core": "^7.13.16",
     "@babel/plugin-transform-runtime": "^7.13.15",
